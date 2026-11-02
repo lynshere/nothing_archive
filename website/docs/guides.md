@@ -41,7 +41,7 @@ A. **Restoring Stock Partitions (For Rooted Users Only)**
    - Note down the build number.  
 
 2. Fetch stock images for your current firmware build:  
-   - Download the `-boot-image.7z` file.  
+   - Download the `-image.boot.7z` file.  
    - Extract the archive to obtain `.img` files.  
 
 3. Identify the required partitions:  
